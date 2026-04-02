@@ -109,9 +109,9 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer"/> -->
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0080FF,100:0D1117&height=200&section=header&text=Sachin%20Patel&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=60&descSize=18"/>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0080FF,100:0D1117&height=200&section=header&text=Sachin%20Patel&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=60&descSize=18"/> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00F7FF&background=0D111700&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Patel;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Problem+Solver+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%92%BB;Hackathons+%7C+DSA+%7C+Open+Source+%E2%9C%A8" />
