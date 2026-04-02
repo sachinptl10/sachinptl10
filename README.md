@@ -148,7 +148,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%F0%9F%8C%90+Connect+With+Me" />
 </h2>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:sachin.patel.cg@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
@@ -160,9 +160,39 @@
   <a href="https://www.linkedin.com/in/sachin-patel-73a331388/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
+
+
+
+
+
+
+
+
+  
+</p> -->
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="mailto:sachin.patel.cg@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://phenomenal-stroopwafel-43cc89.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sachin-patel-73a331388/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- TECH STACK -->
 <h2 align="center">
