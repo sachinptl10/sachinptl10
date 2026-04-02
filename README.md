@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sachin+Patel;Full+Stack+Developer;MERN+Stack+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Patel;Full+Stack+Developer;MERN+Stack+%7C+Problem+Solver" />
 </h1>
 
 <p align="center">
@@ -42,21 +42,18 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 #### ⚙️ Backend & Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 #### 🧠 Languages & Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,figma" />
 </p>
 
 ---
@@ -98,7 +95,7 @@
 ### ⭐ Support
 
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
+  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
 
 ---
