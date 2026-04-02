@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Sachin+Patel;Full+Stack+Developer;MERN+Stack+%7C+Problem+Solver;Building+Cool+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sachin+Patel;Full+Stack+Developer;MERN+Stack+%7C+Problem+Solver" />
 </h1>
 
 <p align="center">
@@ -64,8 +64,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinptl10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinptl10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinptl10&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinptl10&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
