@@ -184,7 +184,7 @@
   </a>
   &nbsp;
   <a href="https://phenomenal-stroopwafel-43cc89.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-6C3483?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sachin-patel-73a331388/">
@@ -192,7 +192,6 @@
   </a>
 </p>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- TECH STACK -->
 <h2 align="center">
